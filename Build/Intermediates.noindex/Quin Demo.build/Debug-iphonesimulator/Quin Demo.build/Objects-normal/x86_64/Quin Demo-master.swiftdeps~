@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+options: "9a81ea912552bd19921596c4248a1ef6"
+build_time: [1576330513, 364612000]
+inputs:
+  "/Users/krishna/Desktop/Quin Demo/Quin Demo/TableViewCell.swift": [1576296279, 888744946]
+  "/Users/krishna/Desktop/Quin Demo/Quin Demo/NextViewController.swift": [1576328360, 73832154]
+  "/Users/krishna/Desktop/Quin Demo/Quin Demo/Networkhelper.swift": [1576246287, 560295310]
+  "/Users/krishna/Desktop/Quin Demo/Quin Demo/ViewController.swift": [1576330513, 99675018]
+  "/Users/krishna/Desktop/Quin Demo/Quin Demo/AppDelegate.swift": [1576241568, 391938177]
+  "/Users/krishna/Desktop/Quin Demo/Quin Demo/SceneDelegate.swift": [1576241568, 414179760]
