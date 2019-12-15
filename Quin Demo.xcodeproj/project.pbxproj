@@ -17,7 +17,6 @@
 		6BC4F06523A3C13C003A5147 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6BC4F06323A3C13C003A5147 /* LaunchScreen.storyboard */; };
 		6BC4F07023A3C13C003A5147 /* Quin_DemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BC4F06F23A3C13C003A5147 /* Quin_DemoTests.swift */; };
 		6BC4F07B23A3C13C003A5147 /* Quin_DemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BC4F07A23A3C13C003A5147 /* Quin_DemoUITests.swift */; };
-		6BC4F08923A3D2B1003A5147 /* Networkhelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BC4F08823A3D2B1003A5147 /* Networkhelper.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,7 +53,6 @@
 		6BC4F07623A3C13C003A5147 /* Quin DemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Quin DemoUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6BC4F07A23A3C13C003A5147 /* Quin_DemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quin_DemoUITests.swift; sourceTree = "<group>"; };
 		6BC4F07C23A3C13C003A5147 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		6BC4F08823A3D2B1003A5147 /* Networkhelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Networkhelper.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,7 +108,6 @@
 				6BC4F05C23A3C120003A5147 /* ViewController.swift */,
 				6B7B475123A4B05C00BEC95C /* NextViewController.swift */,
 				6B7B474F23A4937800BEC95C /* TableViewCell.swift */,
-				6BC4F08823A3D2B1003A5147 /* Networkhelper.swift */,
 				6BC4F05E23A3C120003A5147 /* Main.storyboard */,
 				6BC4F06123A3C13B003A5147 /* Assets.xcassets */,
 				6BC4F06323A3C13C003A5147 /* LaunchScreen.storyboard */,
@@ -270,7 +267,6 @@
 			files = (
 				6B7B475023A4937800BEC95C /* TableViewCell.swift in Sources */,
 				6B7B475223A4B05C00BEC95C /* NextViewController.swift in Sources */,
-				6BC4F08923A3D2B1003A5147 /* Networkhelper.swift in Sources */,
 				6BC4F05D23A3C120003A5147 /* ViewController.swift in Sources */,
 				6BC4F05923A3C120003A5147 /* AppDelegate.swift in Sources */,
 				6BC4F05B23A3C120003A5147 /* SceneDelegate.swift in Sources */,
